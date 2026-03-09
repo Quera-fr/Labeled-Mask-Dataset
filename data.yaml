@@ -1,6 +1,6 @@
-path: .      # Chemin racine vers le dataset
-train: train/images     # Chemin vers les images d'entraînement
-val: valid/images         # Chemin vers les images de validation
+path: ./Labeled-Mask-Dataset/      # Chemin racine vers le dataset
+train: ./train/images     # Chemin vers les images d'entraînement
+val: ./valid/images         # Chemin vers les images de validation
 
 names:
   0: no_mask
